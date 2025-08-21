@@ -1,6 +1,6 @@
 /*
   Copyright (C) 2024 Nintendo Homebrew
-  Copyright (C) 2024 emiyl
+  Copyright (C) 2024 Xziip
   SPDX-License-Identifier: MIT
 */
 
@@ -14,8 +14,8 @@ import * as i18n from './i18n'
 process.env.VITE_EXTRA_EXTENSIONS = 'vpk,img'
 
 export default defineConfig({
-  title: "Vita Hacks Guide",
-  description: "A complete guide to PS Vita (TV) custom firmware, from stock to Ensō.",
+  title: "PS4 Hacks Guide",
+  description: "一个破解PS4的教程指南",
   head: [
     ['link', { rel: 'icon', href: '/assets/images/favicon.ico' }],
     [ 'script', { type: 'text/javascript', src: '//cdn.thisiswaldo.com/static/js/5303.js' } ],
@@ -26,7 +26,7 @@ export default defineConfig({
     root: i18n.en_US
   },
   sitemap: {
-    hostname: 'https://vita.hacks.guide'
+    hostname: 'https://PS4.hacks.guide'
   },
   themeConfig: {
     docFooter: {
@@ -34,8 +34,8 @@ export default defineConfig({
       next: false
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/m7MwpKA' },
-      { icon: 'github', link: 'https://github.com/hacks-guide/Guide_Vita' }
+      { icon: 'discord', link: 'https://discord.gg },
+      { icon: 'github', link: 'https://github.com/Xziip/PS4_Guide' }
     ],
     adUnits: [
       '5340',

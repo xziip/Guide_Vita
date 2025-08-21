@@ -23,7 +23,7 @@ export default defineConfig({
 		[ 'script', {}, 'function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-152619365-1");' ],
   ],
   locales: {
-    root: i18n.en_US
+    root: i18n.zh_CN
   },
   sitemap: {
     hostname: 'https://PS4.hacks.guide'

@@ -34,7 +34,7 @@ export default defineConfig({
       next: false
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg },
+      { icon: 'discord', link: 'https://discord.gg' },
       { icon: 'github', link: 'https://github.com/Xziip/PS4_Guide' }
     ],
     adUnits: [

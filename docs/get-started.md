@@ -2,21 +2,21 @@
 sidebar: false
 ---
 
-# Get Started
+# 开始
 
-### Required Reading
+### 必读
 
-Different device versions will require different steps to achieve the end goal of Custom Firmware. This page will help you find where to start for your device.
+不同的设备版本实现破解的所需步骤会有所不同。本页面将帮助您确定针对您所使用的设备应从何处开始操作。
 
-Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 1.03 to 3.73" row includes 1.03, 3.73, and all versions in-between.
+请从下面的图表中为选择您的版本相对的页面。请注意，每个选项均包含它本身 （如9.0-12.02 包含9.0和12.02）
 
-Your device version can be found under the System Information menu in the System category of the Settings application.
+您设备的版本信息可在 设定 中的“系统”选项下的“系统信息”菜单中找到。
 
-::: danger
-If you bought a second-hand PS Vita or you're unsure whether your console had CFW installed on it beforehand, before doing anything follow [Restoring System](restoring-system) to restore and format your console.
+::: 警告
+如果您购买的是二手的 PS4 游戏机，或者您不确定是否破解过，那么在进行任何操作之前，请先按照[格式化系统]的说明来进行恢复和格式化操作。
 :::
 
-![A screenshot of the PS Vita System Settings](/assets/images/screenshots/system-version.png)
+![系统信息的界面](/assets/images/screenshots/system-version.png)
 
 ### Version Table
 
@@ -35,14 +35,34 @@ If you bought a second-hand PS Vita or you're unsure whether your console had CF
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; font-weight: bold;">1.03</td>
-      <td style="text-align: center; font-weight: bold;">3.73</td>
-      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(3.74).html">Updating Firmware (3.74)</a></td>
+      <td style="text-align: center; font-weight: bold;">1.01</td>
+      <td style="text-align: center; font-weight: bold;">5.03</td>
+      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(5.05).html">更新系统到5.05</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">3.74</td>
-      <td style="text-align: center; font-weight: bold;">3.74</td>
-      <td style="text-align: center; font-weight: bold;"><a href="using-henlo.html">Using HENlo</a></td>
+      <td style="text-align: center; font-weight: bold;">5.05</td>
+      <td style="text-align: center; font-weight: bold;">5.05</td>
+      <td style="text-align: center; font-weight: bold;"><a href="using-webkit505.html">使用webkit(5.05)</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">5.50</td>
+      <td style="text-align: center; font-weight: bold;">5.53</td>
+      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(9.0).html">升级系统到9.0</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">9.0</td>
+      <td style="text-align: center; font-weight: bold;">9.60</td>
+      <td style="text-align: center; font-weight: bold;"><a href="using-webkit90.html">使用webkit(9.0)</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">10.00</td>
+      <td style="text-align: center; font-weight: bold;">11.00</td>
+      <td style="text-align: center; font-weight: bold;"><a href="using-pppwn.html">使用Pppwn(不推荐)</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">9.0</td>
+      <td style="text-align: center; font-weight: bold;">12.02</td>
+      <td style="text-align: center; font-weight: bold;"><a href="bdjb.html">使用BD-JB破解(需要蓝光刻录盘)</a></td>
     </tr>
   </tbody>
 </table>

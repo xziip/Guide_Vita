@@ -2,10 +2,10 @@
 sidebar: false
 ---
 
-# Credits
+# 制作名单
 
-::: tip
-Special thanks to all of [the translators](https://crowdin.com/project/vita-guide) for being awesome!
+::: 提示
+特别感谢 hacks.guide的制作人员！没有他们我就无法完成这个教程！
 :::
 
 <div>
@@ -28,8 +28,9 @@ Special thanks to all of [the translators](https://crowdin.com/project/vita-guid
 
 <br>
 
-If we forgot you here, contact us and we'll add your name.
+如果我们忘记了添加你的名字，请联系我们，我将尽快添加。
 
+    + Xziip
     + Plailect
     + CelesteBlue
     + codestation

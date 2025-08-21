@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Vita Hacks Guide"
+title: "PS4 破解指南"
 hero:
-  text: "Vita Hacks Guide"
-  tagline: "A complete guide to PS Vita (TV) custom firmware, from stock to Ensō."
+  text: "PS4 破解指南"
+  tagline: "一个让你能破解PS4的权威指南。"
   image:
     src: "/assets/images/home-page-feature.jpg"
   actions:
@@ -12,69 +12,60 @@ hero:
       link: get-started
 ---
 
-::: tip
-For complete guides to homebrew and custom firmware for other devices, check out [Hacks.Guide](https://hacks.guide).
+::: 提示
+本教程由Xziip免费制作分享  若您是付费来到此处 则您被骗了! 请联系卖家退款! 
 :::
 
-::: warning
-Thoroughly read all of the introductory pages (including this one!) before proceeding.
+::: 警告
+在继续之前，请仔细阅读所有介绍页（包括本页！）
 :::
 
-::: danger
-This guide is for retail (consumer purchased; not from the PlayStation Partner Program) consoles _only_!
+::: 危险
+本指南仅适用于零售（消费者购买；非通过 PlayStation 合作伙伴计划）的主机！
 :::
 
-<!--::: tip
-This guide is available in other languages!
-Click the language button at the top right of the page to change the language.
-Alternatively, click [here](https://crowdin.com/project/vita-guide) to help to keep these translations up to date.
-:::-->
 
-::: tip
-**Important**: Please select your button layout: <BtnToggler />
+::: 提示
+**重要提示**: 请选择您的按钮布局: <BtnToggler />
 
 :::
 
-## What is Homebrew?
+## 什么是 Homebrew?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) usually refers to software that is not authorized by Sony. It allows you to run homebrew games, tools like save editing and backup, and emulators for various older systems.
+[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) 通常指的是未经索尼授权的软件。它能让你运行自制游戏、使用诸如存档编辑和备份之类的工具，以及用于各种老旧系统的模拟器。
 
-Running homebrew on your device is 100% free on your device.
+在您的设备上运行自制软件完全是免费的。
 
-## What is Custom Firmware?
+## 什么是 CFW (自定义固件)?
 
-**Custom Firmware** ("CFW") enables you to use more advanced hacks that userland homebrew can't easily do, in addition to anything homebrew can do. Essentially all homebrew solutions on the PS Vita (TV) include a CFW of some kind.
+**CFW** ("自定义固件") 这能让您使用一些用户自定义程序无法轻易实现的更高级的功能，而且还能涵盖用户自定义程序所能实现的所有功能。
 
-For information on how custom firmware works, please see [this post](https://yifan.lu/2017/07/31/henkaku-enso-bootloader-hack-for-vita/) by [Yifan Lu](https://twitter.com/yifanlu).
+如需了解自定义固件的工作原理以及更多信息，请参阅 https://consolemods.org/wiki/PS4:GoldHEN
 
-## What does this guide install?
+## 这份指南包含了哪些内容？
 
-This guide has the end goal of taking a completely unmodified PS Vita (TV) from stock firmware to custom firmware.
+本指南的最终目标是将一台未经任何改动的PS4 从出厂预装的固件升级至CFW。
+目前市面上最出色的 CFW 解决方案——GoldHen，能为您的设备提供便捷的homebrew访问功能。
+GoldHen适用于所有固件版本为 12.02 及以下的设备，而固件版本更高的设备也可以降级到 12.02 版本以达到相同的效果。（详情见降级页面 暂未开发）
 
-The best CFW solution currently available, Ensō, allows for convenient homebrew access on your device by running an exploit at boot-time to setup the homebrew environment. It is more convenient than other CFW solutions (such as HENkaku or h-encore) as it does not require you to trigger an exploit on your device after every reboot manually.
+## 我可以用CFW来做些什么呢？
 
-Ensō is available on all devices with firmware version 3.65 or below, while higher firmware version devices can downgrade to 3.65 to achieve the same result.
++ 自定义主题
++ 对于您所拥有的游戏，使用“ROM hack”
++ 备份你的游戏 以便您没有您的光碟来进行游玩
++ 使用模拟器来玩旧系统的游戏
++ 等其他功能
 
-## What can I do with Custom Firmware?
+## 在开始之前 我需要知道些什么?
 
-+ Customize your home screen with user-created [themes](http://vstema.com/).
-+ Use "ROM hacks" for games that you own
-+ [Backup, edit, and restore](https://github.com/d3m3vilurr/vita-savemgr) saves for many games.
-+ Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-+ Dump your game cards to a format you can install, and play them without needing the card.
-+ Certain games only: stream live gameplay to your PC wirelessly with Rincheat Streamer.
-+ Play your PSP games on your Vita with Adrenaline ePSP CFW
++ **在开始本指南之前，您必须了解PS4破解的潜在风险：每次您对系统进行修改时，都可能存在无法恢复的损坏情况。这种情况虽然罕见，但仍是有可能发生的，所以请务必严格按照所有说明操作。**
++ 本指南适用于所有地区的所有 PS4、PS4 Slim 和 ps4 Pro，其兼容的固件版本范围为 1.01 至 12.02。
++ 如果一切按计划进行，您将不会丢失任何数据，并且最终会得到您最初拥有的所有内容（游戏、PSN 账户、存档等都将得以保留）.
++ **在整个过程中，请确保您的设备始终处于通电状态，以避免数据丢失或因意外关机而造成损坏！**
++ PS4 Silm 以及 ps4 Pro 型号在软件方面与原版 PS4完全相同。所有标注“PS4”的步骤同样适用于其他型号，除非另有说明。
 
-## What do I need to know before starting?
+::: 提示
 
-+ **Before beginning the guide, you must know the risks of Vita hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They're rare, but still a possibility so make sure you follow ALL directions EXACTLY.**
-+ This guide will work on all PS Vita, PS Vita Slim, and PS TV devices in all regions on firmwares from 1.03 to 3.74
-+ If everything goes according to plan, you will lose no data and end up with everything that you started with (games, PSN Account, saves, etc. will be preserved).
-+ **Keep your device plugged in and charged throughout the entire process to avoid data loss or damage from an unexpected power-off!**
-+ The PS Vita 2000 and PS TV models are essentially identical to the original PS Vita 1000 in terms of software. All steps which say "PS Vita" also apply to other models unless otherwise specified.
-
-::: tip
-
-Continue to [Get Started](get-started)
+继续 [开始](get-started)
 
 :::

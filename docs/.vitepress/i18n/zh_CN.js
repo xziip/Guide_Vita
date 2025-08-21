@@ -4,10 +4,6 @@ const sidebar_guide_henkaku = {
     { text: '开始', link: '/get-started' },
     { text: '升级到5.05', link: '/updating-firmware-(5.05)' },
     { text: '升级到(9.0)', link: '/updating-firmware-(9.0)' }
-    { text: '使用webkit(5.05)', link: '/using-webkit505' },
-    { text: '使用webkit(9.0)', link: '/using-webkit90' }
-    { text: '使用PPPwn', link: '/using-pppwn' }
-    { text: '使用BD-JB', link: '/bdjb' }
   ],
 }
 

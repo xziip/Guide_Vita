@@ -4,22 +4,22 @@ sidebar: false
 
 # 制作名单
 
-::: 提示
-特别感谢 hacks.guide的制作人员！没有他们我就无法完成这个教程！
+::: tip
+特别感谢这个指南的制作人员！没有他们我就无法完成这个教程！
 :::
 
 <div>
   <div class="credits">
     <div class="user">
-      <img src="https://github.com/emiyl.png">
+      <img src="https://github.com/Xziip.png">
     </div>
     <div class="user">
-      <h3>emiyl</h3>
-      <p>Emma</p>
-      <a class="social-icon" href="https://twitter.com/emiyl0" target="_blank">
+      <h3>Xziip</h3>
+      <p>xz</p>
+      <a class="social-icon" href="https://twitter.com/Xziipp" target="_blank">
         <i class="fab fa-twitter"></i>
       </a>
-      <a class="social-icon" href="https://github.com/emiyl" target="_blank">
+      <a class="social-icon" href="https://github.com/Xziipp" target="_blank">
         <i class="fab fa-github"></i>
       </a>
     </div>

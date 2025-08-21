@@ -12,17 +12,10 @@ sidebar: false
 
 您设备的版本信息可在 `设定` 中的 `系统` 选项下的 `系统信息` 菜单中找到。
 
-::: 警告
+::: danger
 如果您购买的是二手的 PS4 游戏机，或者您不确定是否破解过，那么在进行任何操作之前，请先按照[格式化系统]的说明来进行恢复和格式化操作。
 :::
 
-::: test
-tessjssisnizsnusznjssbzusnnssjsnjsjsjssjnsnssjsjsjjsjssnsjskksksksjsjsjsjsjsjskskskskksisiwjznzjsksnznxnxnznzjzjsjsjssjjsjsnsnzjzjssjzznzzjznznznznznzjjsnznznz jsjzj.
-:::
-
-::: tip
-If you're using a USB drive or psvsd adapter, or if this method doesn't work for you, follow the [StorageMgr](storagemgr) guide.
-:::
 
 ![系统信息的界面](/assets/images/screenshots/system-version.png)
 
@@ -54,7 +47,7 @@ If you're using a USB drive or psvsd adapter, or if this method doesn't work for
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">5.50</td>
-      <td style="text-align: center; font-weight: bold;">5.53</td>
+      <td style="text-align: center; font-weight: bold;">8.52</td>
       <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(9.0).html">升级系统到9.0</a></td>
     </tr>
     <tr>
@@ -65,7 +58,7 @@ If you're using a USB drive or psvsd adapter, or if this method doesn't work for
     <tr>
       <td style="text-align: center; font-weight: bold;">10.00</td>
       <td style="text-align: center; font-weight: bold;">11.00</td>
-      <td style="text-align: center; font-weight: bold;"><a href="using-pppwn.html">使用Pppwn(不推荐)</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="using-pppwn.html">使用PPPwn(不推荐)</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">9.0</td>

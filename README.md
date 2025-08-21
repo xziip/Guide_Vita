@@ -11,8 +11,8 @@ This requires the following installed on your system:
 To test the website locally, clone the source code:
 
 ```sh
-git clone https://github.com/Xziip/Guide_Vita --recurse-submodules
-cd Guide_Vita
+git clone https://github.com/Xziip/PS4_Guide --recurse-submodules
+cd PS4_Guide
 ```
 
 Then simply run the following commands:

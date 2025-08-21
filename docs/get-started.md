@@ -20,6 +20,10 @@ sidebar: false
 test
 :::
 
+::: tip
+If you're using a USB drive or psvsd adapter, or if this method doesn't work for you, follow the [StorageMgr](storagemgr) guide.
+:::
+
 ![系统信息的界面](/assets/images/screenshots/system-version.png)
 
 ### Version Table

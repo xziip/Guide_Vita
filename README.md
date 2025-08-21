@@ -1,7 +1,7 @@
-# vita.hacks.guide
-A complete guide to PS Vita (TV) custom firmware, from stock to Ensō.
+# Ps4.hacks.guide
+A complete guide to PS 4 custom firmware, from Goldhen
 
-https://vita.hacks.guide
+https://Ps4.hacks.guide (？)
 
 ## Running the site locally
 
@@ -11,7 +11,7 @@ This requires the following installed on your system:
 To test the website locally, clone the source code:
 
 ```sh
-git clone https://github.com/hacks-guide/Guide_Vita --recurse-submodules
+git clone https://github.com/Xziip/Guide_Vita --recurse-submodules
 cd Guide_Vita
 ```
 

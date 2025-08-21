@@ -1,4 +1,3 @@
-https://cbepx-me.github.io/900/04---
 next: true
 ---
 

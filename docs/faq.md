@@ -4,23 +4,26 @@ sidebar: false
 
 # FAQ
 
-### I am on the latest system version, is my device hackable?
-Yes, firmware version 3.74 is hackable at the moment.
+### 我使用的是最新的系统版本，我的设备能否可以被破解？
+不能，目前最后一个可破解的版本为12.02
 
-### Can I downgrade my Vita?
-Yes, the tool Modoru can downgrade any system hacked with HENkaku or h-encore to any firmware equal or greater than the firmware the console came with out of the box.
+### 我能把我的PS4降级吗？
+部分PS4可以。如果你要将你的PS4降级，需要修改你的硬件，来实现降级。
+其中有部分芯片是不能被降级的，所以只有部分PS4可以降级
 
-### Is it safe to update a Vita with CFW?
-There is no need to update a PSVita with CFW. Stay on firmware version 3.60 or 3.65.
+### 使用GoldHen更新固件安全吗？
+不需要升级你的PS4固件 目前保持在12.02系统以下就能破解
 
-### How risky is hacking my console?
-Bricks are *basically* impossible unless you ignore instructions and Sony doesn't ban consoles nor accounts unless you hack trophies or in-game.
+### 破解我的主机有多大风险？
+变砖几乎上是不可能的，除非你无视指令，索尼不会ban主机或帐户，除非你黑了奖杯或游戏内。
 
-### Can I run awesome homebrew and emulators with this?
-Yes! This enables any custom user-made homebrew to be played on your device.
+### 我能用这个GoldHen运行超棒的Homebrew和模拟器吗？
+可以！您可以在您的设备上使用任何Homebrew程序在GoldHen环境下！
 
-### Where should I go for support?
-For support, ask for help at [Official Henkaku Discord](https://discord.gg/m7MwpKA).
+### 我应该去哪里寻求帮助？
+加入我们的QQ群:
 
-### Can I do this without a computer?
-Yes, all firmwares can be hacked without use of a computer.
+### 没有电脑我能进行破解？
+如果你使用PPPwn破解 您必须需要电脑
+但如果你使用其他破解方式 择不需要
+

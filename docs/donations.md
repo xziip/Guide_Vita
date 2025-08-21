@@ -5,7 +5,6 @@ sidebar: false
 
 # Donations
 
-### emiyl
+### Xziip
 
-<a href="https://emiyl.com/paypal" target="_blank" style="padding: 1em;"><img src="/assets/images/paypal_white.png" alt="PayPal"/></a>
-<p style="text-align: center;">emiyl.com/paypal</p>
+暂时不接受捐赠！

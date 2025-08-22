@@ -13,7 +13,7 @@ next: true
 
 ### 破解需要些什么？
 
-* 1台联网的 PS4 (包括Pro或Silm)
+* 1台联网的 PS4 `包括Pro或Silm`
 
 ### 教程
 

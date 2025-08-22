@@ -1,3 +1,4 @@
+---
 next: true
 ---
 
@@ -17,10 +18,10 @@ next: true
 
 ### 破解需要些什么？
 
-* 1台联网的 PS4 (包括Pro或Silm)
-* 1台windows或linux系统的电脑 (有网口并且win7及以上)
+* 1台联网的 PS4 `包括Pro或Silm`
+* 1台windows或linux系统的电脑 `有网口并且win7及以上`
 * 网线一根
-* U盘一个(格式为Exfat)
+* U盘一个 `格式为Exfat`
 
 ### 教程
 

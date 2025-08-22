@@ -32,16 +32,23 @@ next: true
 #### 步骤二 GoldHen准备
 
 1.确认您的U盘文件系统为Exfat (若不是请格式化)
+
 2.将GoldHen文件放置在U盘根目录下 [**下载地址**](https://ko-fi.com/s/bd655acbdb)
+
 3.重命名 `GoldHen.bin` 为 `Payload.bin`
-3.将U盘插入PS4
+
+4..将U盘插入PS4
 
 #### 步骤三 刻录光盘(可选)
 
 1.下载imgburn软件 [**下载地址**](https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe)
+
 2.下载官方镜像 [**下载地址**](https://github.com/Gezine/BD-JB-1250/releases)
+
 2a.下载集成镜像 [**下载地址**](https://t.co/H6LC6EOoPX)
+
 3.打开imgburn程序 选择`刻录镜像到光盘` 选择镜像文件 点击下面图标即可刻录
+
 4.刻录完成后 插入主机
 
 #### 步骤四 使用BD-JB破解
@@ -50,7 +57,7 @@ next: true
 如果你是集成光盘 就不用执行任何关于U盘的步骤
 :::
 
-1. 将光盘插入主机
+1. 将光盘 U盘 插入主机
 2. 等待光盘识别 然后找到光盘图标 点击开始
 3. 若显示需要联接互联网来使用蓝光光碟 请务必先联网
     + (若联网后还无法解决 建议使用网络加速器来进行激活)

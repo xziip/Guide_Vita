@@ -1,7 +1,7 @@
 # Ps4.hacks.guide
 A complete guide to PS 4 custom firmware, from Goldhen
 
-https://Ps4.hacks.guide (？)
+https://ps4hacksguide.github.io
 
 ## Running the site locally
 
